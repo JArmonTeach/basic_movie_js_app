@@ -12,7 +12,7 @@ const App = () => {
     }
 
     useEffect(() => {
-        searchMovies('Indiana Jones'); //time: 50:55
+        searchMovies('Indiana Jones'); 
     }, []);
 
     return (
